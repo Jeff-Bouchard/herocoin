@@ -3,11 +3,11 @@
 ## Tech Stack
 Jeff-Bouchard/herocoin is built on the following main stack:
 
+- [ES6](http://www.ecma-international.org/ecma-262/6.0/) – Languages
 - [JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript) – Languages
 - [Chai](http://chaijs.com/) – Javascript Testing Framework
-- [ES6](http://www.ecma-international.org/ecma-262/6.0/) – Languages
-- [Shell](https://en.wikipedia.org/wiki/Shell_script) – Shells
 - [TRUFFLE](https://www.trufflesuite.com/truffle) – Integrated Development Environment
+- [Shell](https://en.wikipedia.org/wiki/Shell_script) – Shells
 
 Full tech stack [here](/techstack.md)
 
@@ -17,11 +17,11 @@ Full tech stack [here](/techstack.md)
 ## Tech Stack
 Jeff-Bouchard/herocoin is built on the following main stack:
 
+- <img width='25' height='25' src='https://img.stackshare.io/service/4109/16407404782_8b9c57eab3.jpg' alt='ES6'/> [ES6](http://www.ecma-international.org/ecma-262/6.0/) – Languages
 - <img width='25' height='25' src='https://img.stackshare.io/service/1209/javascript.jpeg' alt='JavaScript'/> [JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript) – Languages
 - <img width='25' height='25' src='https://img.stackshare.io/service/1725/chai.png' alt='Chai'/> [Chai](http://chaijs.com/) – Javascript Testing Framework
-- <img width='25' height='25' src='https://img.stackshare.io/service/4109/16407404782_8b9c57eab3.jpg' alt='ES6'/> [ES6](http://www.ecma-international.org/ecma-262/6.0/) – Languages
-- <img width='25' height='25' src='https://img.stackshare.io/service/4631/default_c2062d40130562bdc836c13dbca02d318205a962.png' alt='Shell'/> [Shell](https://en.wikipedia.org/wiki/Shell_script) – Shells
 - <img width='25' height='25' src='https://img.stackshare.io/service/8417/gMnhPuhq_400x400.jpg' alt='TRUFFLE'/> [TRUFFLE](https://www.trufflesuite.com/truffle) – Integrated Development Environment
+- <img width='25' height='25' src='https://img.stackshare.io/service/4631/default_c2062d40130562bdc836c13dbca02d318205a962.png' alt='Shell'/> [Shell](https://en.wikipedia.org/wiki/Shell_script) – Shells
 
 Full tech stack [here](/techstack.md)
 
@@ -32,7 +32,7 @@ Full tech stack [here](/techstack.md)
 # Tech Stack File
 ![](https://img.stackshare.io/repo.svg "repo") [Jeff-Bouchard/herocoin](https://github.com/Jeff-Bouchard/herocoin)![](https://img.stackshare.io/public_badge.svg "public")
 <br/><br/>
-|16<br/>Tools used|02/04/24 <br/>Report generated|
+|16<br/>Tools used|02/29/24 <br/>Report generated|
 |------|------|
 </div>
 
