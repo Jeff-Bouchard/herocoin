@@ -2,7 +2,7 @@ repo_name: Jeff-Bouchard/herocoin
 report_id: 44d9115dc78470cb83bfc615da364f23
 version: 0.1
 repo_type: Public
-timestamp: '2024-02-04T14:45:47+00:00'
+timestamp: '2024-02-29T19:54:03+00:00'
 requested_by: apetersson
 provider: github
 branch: master
@@ -57,7 +57,7 @@ tools:
   detection_source_url: https://github.com/Jeff-Bouchard/herocoin
   detection_source: Repo Metadata
 - name: TRUFFLE
-  description: 'A development environment for Ethereum '
+  description: A development environment for Ethereum
   website_url: https://www.trufflesuite.com/truffle
   license: MIT
   open_source: true
